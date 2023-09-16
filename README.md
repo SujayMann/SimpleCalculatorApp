@@ -1,5 +1,5 @@
 # SimpleCalculatorApp
 Simple Calculator Android App
 
-Dependencies
+### **Dependencies:**
 mxParser v5.1
